@@ -1,3 +1,3 @@
-The notes for the project on algebraic geometry methods to integer optimization problems on StochasticalProgramming.
+The notes for the project on algebraic geometry methods to underpin IP and SIP.
 
-sympy's Algebra part (https://mattpap.github.io/masters-thesis/html/index.html)
+1. sympy's Algebra part (https://mattpap.github.io/masters-thesis/html/index.html).
